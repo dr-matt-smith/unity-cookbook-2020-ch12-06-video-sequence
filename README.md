@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch12-03-video-sequence
+# unity-cookbook-2020-ch12-06-video-sequence
